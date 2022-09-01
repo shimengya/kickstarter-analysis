@@ -45,4 +45,4 @@ It might be challenging to convert the right format as required. While google is
   - it only provides the numbers without any average and percentage calculations. It difficult to understand how the goal and date impact on the results.
 
 - What are some other possible tables and/or graphs that we could create?
-  - we could use pie chart or bar chart.
+  - we could use pie chart or bar chart. 
